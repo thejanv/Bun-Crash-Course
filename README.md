@@ -1,4 +1,4 @@
-# codespaces-blank
+# Bun Crash Course
 
 To install dependencies:
 
